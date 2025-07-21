@@ -1,1 +1,2 @@
-# studies
+# sample
+this is a sample project

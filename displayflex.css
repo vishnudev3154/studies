@@ -1,0 +1,19 @@
+.main{
+    background-color: brown;
+    height: 300px;
+    
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-around;
+  align-items: center ;
+   /* align-content: flex-end; */
+   flex-direction: column;
+  
+}
+.sub{
+    
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    color: black;
+}

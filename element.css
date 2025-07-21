@@ -1,0 +1,15 @@
+p::first-letter{
+    color: brown;
+    font-size: 30px;
+
+}
+p::first-line{
+    color: aqua;
+
+}
+input::placeholder{
+    color: blue;
+}
+ol ::marker{
+    color: rgb(255, 0, 51);
+}

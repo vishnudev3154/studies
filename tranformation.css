@@ -1,0 +1,10 @@
+.main{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+   /* transform: translate(400px) rotate(360deg) skew(4deg); */
+}
+.main:hover{
+    transform: translate(900px) rotate(360deg);
+    transition: 4s ease;
+}

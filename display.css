@@ -1,0 +1,15 @@
+a{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 1px;
+
+}
+div{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    display: inline block;
+margin: 1px;
+}

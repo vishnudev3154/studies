@@ -1,0 +1,13 @@
+.main {
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+}
+.sub {
+    height: 100px;
+    width: 150px;
+   top: 0px;
+   z-index: 1;
+    position: absolute;
+    background-color: rgb(36, 0, 239);
+}

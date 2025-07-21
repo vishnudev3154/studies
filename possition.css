@@ -1,0 +1,43 @@
+.main {
+    height: 100px;
+    width: 100;
+    background-color: red;
+    position: static;
+}
+
+.sub{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.main2 {
+
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    margin: 50px;
+border-radius: 50%;
+}
+.sub2 {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: sticky;
+    top: 50px;
+
+
+}
+.main3 {
+    
+    height: 550px;
+    width: 150px;
+    background-color: aqua;
+
+    
+}

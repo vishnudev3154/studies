@@ -1,0 +1,32 @@
+.main {
+    display: grid;
+    grid-template-areas: 'logo search search service'
+        'sidebar mainarea mainarea mainarea'
+        'footer footer footer footer';
+    gap: 10px;
+    grid-template-rows: 60px 500px 60px;
+
+}
+.sub{
+    background-color: blue;
+
+}
+.sub1{
+    grid-area: logo;
+}
+.sub2{
+    grid-area: search;
+
+}
+.sub3{
+    grid-area: service;
+}
+.sub4{
+    grid-area: sidebar;
+}
+.sub5{
+    grid-area: mainarea;
+}
+.sub6{
+    grid-area: footer;
+}

@@ -1,0 +1,12 @@
+a:visited{
+    color:purple ;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: black;
+}
+input:focus{
+    background-color: brown;
+}
