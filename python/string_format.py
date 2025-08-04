@@ -1,0 +1,5 @@
+print('{:10}{:10}'.format('hello', 'welcome'))
+print('{:10}{:10}'.format('hello', 'welcome'))
+print('{:10}{:10}'.format('hello', 'welcome'))
+print('{:10}{:10}'.format('hello', 'welcome'))
+print('{:10}{:10}'.format('hello', 'welcome'))
